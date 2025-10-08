@@ -61,7 +61,7 @@ While I have a broad background, my current toolkit is heavily focused on the AI
 ### Let's make those AI's work hard
 
   <a >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannOosthuizen&layout=compact&theme=radical" alt="Top Languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannOosthuizen alt="Dancing with 6 AI's">
   </a>
 
 
