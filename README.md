@@ -36,9 +36,9 @@ I'm an experienced IT leader, now diving deep into the world of AI-driven develo
 While I have a broad background, my current toolkit is heavily focused on the AI space.
 
 **Core Interests:**
--   Supervised Learning
--   Dimensionality Reduction
--   Clustering Techniques
+-   AI Agents
+-   Vibe Coding
+-   Promtp Engineering
 
 **Past Experience Highlights:**
 -   Executive Director @ Teachable Machine
