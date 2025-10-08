@@ -62,7 +62,7 @@ While I have a broad background, my current toolkit is heavily focused on the AI
 
 Let's get to work!
 
-  <a alingment="center">
+  <a alignment="center">
     <img src="images/coding-bot- master-animated.gif" >
   </a>
 
