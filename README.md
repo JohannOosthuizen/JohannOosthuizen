@@ -57,3 +57,11 @@ While I have a broad background, my current toolkit is heavily focused on the AI
 
 - **LinkedIn:** [linkedin.com/in/johannoosthuizen](https://www.linkedin.com/in/johannoosthuizen)
 - **WhatsApp:** [+27 64 514 8600](https://wa.me/27645148600)
+
+### Let's make those AI's work hard
+
+  <a >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohannOosthuizen&layout=compact&theme=radical" alt="Top Languages">
+  </a>
+
+
