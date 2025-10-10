@@ -38,10 +38,11 @@ While I have a broad background, my current toolkit is heavily focused on the AI
 **Core Interests:**
 -   AI Agents
 -   Vibe Coding
--   Promtp Engineering
+-   Prompt Engineering
 
 **Past Experience Highlights:**
 -   Executive Director @ Teachable Machine
+-   AVIT Engineer @ Hill Robinson yacht management
 -   Senior Information Technology Officer @ Crystal Cruises
 -   Software Engineer @ Korbitec
 
